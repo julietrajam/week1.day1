@@ -7,7 +7,7 @@ public class NegativeToPositive {
 		
 		int a=-40;
 		if(a<0)
-			a=a+80;
+			a=a*-1;
 		System.out.println("The number -40 is converted to 40");
 
 	}
